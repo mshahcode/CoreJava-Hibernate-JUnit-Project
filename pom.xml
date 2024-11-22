@@ -9,7 +9,6 @@
   <version>1.0</version>
 
   <name>sba-core-java-hibernate-junit</name>
-  <url>https://www.perscholas.org</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
